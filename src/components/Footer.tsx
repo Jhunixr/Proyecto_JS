@@ -61,6 +61,12 @@ const Footer = () => {
           <p className="text-gray-500 text-sm mt-1">
             Chimbote, Áncash - Perú
           </p>
+          <div className="mt-2">
+            <p className="text-gray-600 text-xs">
+              Desarrollado por: Alex Jhunior Vargas Ruiz, Osver Kylver Paucar Clavijo,<br/>
+              Jhon Anthony Bravo Aguirre, Juan Carlos Urbano Corales, Gianfranco Alonso Estraver Zamora
+            </p>
+          </div>
         </div>
       </div>
     </footer>
