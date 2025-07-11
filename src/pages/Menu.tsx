@@ -6,7 +6,7 @@ const Menu = () => {
     {
       name: 'Paquete Básico',
       description: 'Alquiler del local por 8 horas con servicios esenciales',
-      image: `https://scontent.flim2-6.fna.fbcdn.net/v/t39.30808-6/475980206_1066360981960376_880043289343734918_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ExPxiZYizRwQ7kNvwHIQNrg&_nc_oc=Adlvy2cLHDUrwHOxjG0BA-d51o9ChVFrr8uWViJDNjAXbb97FgTKdCnK1-rkE-acVrs&_nc_zt=23&_nc_ht=scontent.flim2-6.fna&_nc_gid=tcyf502954AmoCSNbDNoCA&oh=00_AfPMEG5_T3plyEEYxPYQKkgeq-oktGlc3Zs1t20rvfSzbQ&oe=686A06F1`,
+      image: `https://scontent.flim2-1.fna.fbcdn.net/v/t39.30808-6/476210298_1070088998254241_3209277449287550725_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeF3VRHQ2XoQOqaL95YlOXvlXMUNUApfODZcxQ1QCl84NjgSY4lDA02aIfZsM4wtTEAb28q5kkIijnsez94XIGVR&_nc_ohc=xkGtpJAWqMgQ7kNvwGnCz3K&_nc_oc=AdkJJ72YkIr7171JCPBr7VfSGu4QH1TvmsztlLHW8HQk5D55U0azB1rOGj9W299vZhs&_nc_zt=23&_nc_ht=scontent.flim2-1.fna&_nc_gid=Y8ep4AUu6gNzLur-IFPk1g&oh=00_AfRH82H_j1xOSVnVvVogEvuZvx-zyFh6IKJZygyoz9OnPg&oe=687727DA `,
       features: [
         'Alquiler del local por 8 horas',
         'Mesas y sillas para todos los invitados',
@@ -21,7 +21,7 @@ const Menu = () => {
     {
       name: 'Paquete Premium',
       description: 'Todo lo del paquete básico más servicios adicionales',
-      image: 'https://scontent.flim2-5.fna.fbcdn.net/v/t39.30808-6/474950824_1061006615829146_2711126171599175667_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_ohc=bwqDsW-PfQsQ7kNvwEVUlVR&_nc_oc=Adlltqa1h_BVm5t7kwyOsJ6r1qmQjyEAfrQM8unA8C8E-G54vqvz-tMjoLoww9-briU&_nc_zt=23&_nc_ht=scontent.flim2-5.fna&_nc_gid=R9faMPpeRxbhLd3wU7VV9Q&oh=00_AfM9EUPnms7bTEe3FDrtNKBtefXSWpu4ZbVlWzJgy9dIoQ&oe=686A1DF6',
+      image: 'https://scontent.flim2-1.fna.fbcdn.net/v/t39.30808-6/475756482_1066360991960375_6341156567187074077_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHl1hhfh7LDMoJ4Zoa6t_ykM7wZWuzVsBAzvBla7NWwEE02DfV69u6onSN75bIe0n9EKADIJsbLhCNkcsWr9Vy2&_nc_ohc=18cScHYgY8oQ7kNvwHpDdUd&_nc_oc=Adl4DNVryBMwVNQ3H7p2IO2s_zSGDWDbnFR9dv5QfkeLpucZFyvZW5RXhiymS0DXyhA&_nc_zt=23&_nc_ht=scontent.flim2-1.fna&_nc_gid=os6qLgO7Yk2GTAwlxOtC0g&oh=00_AfQJ0iB6YxaoN4ljJALTg_8tSWWUmivDklUjxEGgeizEFw&oe=68773575',
       features: [
         'Todo lo del paquete básico',
         'DJ Profesional incluido',
@@ -36,7 +36,7 @@ const Menu = () => {
     {
       name: 'Paquete Full',
       description: 'La experiencia completa para tu evento perfecto',
-      image: 'https://scontent.flim2-2.fna.fbcdn.net/v/t39.30808-6/475280259_1060995882496886_443360528040760229_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=NbguD_Wwb48Q7kNvwGwpLjh&_nc_oc=Adl7TLccULt0UvaYWPgGXvd95AvybhDZ7s82mnhue92z6itdNXXMUi-RVG8zYD0eG78&_nc_zt=23&_nc_ht=scontent.flim2-2.fna&_nc_gid=XHhCfSXImufbpz86ujcjOg&oh=00_AfPEhxLbLHChYdfX3iBObT9z2Wym2CUGgQPJLkF0leyxcw&oe=686A278B',
+      image: 'https://scontent.flim2-6.fna.fbcdn.net/v/t39.30808-6/475980206_1066360981960376_880043289343734918_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFQTPUPg_5sT5S1SJGJbqDqNzRnbG4Ju1c3NGdsbgm7V9BfkfZ5xUH4E_clf_vw1o10pfqJiPdMVrzxNugdXLPY&_nc_ohc=7R2yH3RpDmQQ7kNvwFcovrk&_nc_oc=AdmEwQcQVp3Zsea26FaLa8PBZKbzYsmkiiU9tdIEDDiGp-b3zq1QhqYXYAf7N6kQ72M&_nc_zt=23&_nc_ht=scontent.flim2-6.fna&_nc_gid=zkjrIWAI3UkL1cj9cugc_Q&oh=00_AfTv5oPX5t-CRml_mJWKVf1faaAGtP5-bMcZLSxgLD5CVA&oe=687735F1',
       features: [
         'Todo lo del paquete premium',
         'Hora loca incluida',
@@ -140,7 +140,7 @@ const Menu = () => {
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             <div className="card overflow-hidden hover:scale-105 transition-transform">
-              <div className="h-64 bg-cover bg-center" style={{ backgroundImage: `url(https://scontent.flim2-6.fna.fbcdn.net/v/t39.30808-6/475980206_1066360981960376_880043289343734918_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ExPxiZYizRwQ7kNvwHIQNrg&_nc_oc=Adlvy2cLHDUrwHOxjG0BA-d51o9ChVFrr8uWViJDNjAXbb97FgTKdCnK1-rkE-acVrs&_nc_zt=23&_nc_ht=scontent.flim2-6.fna&_nc_gid=tcyf502954AmoCSNbDNoCA&oh=00_AfPMEG5_T3plyEEYxPYQKkgeq-oktGlc3Zs1t20rvfSzbQ&oe=686A06F1)` }}>
+              <div className="h-64 bg-cover bg-center" style={{ backgroundImage: `url(https://scontent.flim26-1.fna.fbcdn.net/v/t39.30808-6/475435698_1061668985762909_8798311709424109877_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHg7oS0sEv8TL2V2ENryH_BAt_DKk1LvKEC38MqTUu8oc9lvID6M03zhfPUmP6OJVhXDoC_DsqGoJZzFHaKP1HQ&_nc_ohc=6J4mwb0JI8cQ7kNvwFsEH3S&_nc_oc=AdlSYQK6Om99iWyr17fl7e6LJ7HdnIlkdYfsAf1GBLkGElduDpjXEHBHm7Pq240Z2Q4&_nc_zt=23&_nc_ht=scontent.flim26-1.fna&_nc_gid=dopbkFZ988yM9M4h76jUZA&oh=00_AfSfLqcR0PvfRQbY3PiW8NkTvgU7QpGkefUDPDJk8F1Ikg&oe=687726CD)` }}>
                 <div className="h-full bg-black bg-opacity-20 flex items-end">
                   <div className="p-4 text-white">
                     <h3 className="font-semibold">Salón Principal</h3>
@@ -150,7 +150,7 @@ const Menu = () => {
               </div>
             </div>
             <div className="card overflow-hidden hover:scale-105 transition-transform">
-              <div className="h-64 bg-cover bg-center" style={{ backgroundImage: `url(https://scontent.flim2-6.fna.fbcdn.net/v/t39.30808-6/475744137_1066360988627042_1141361137578987576_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=d2ggKAniBMQQ7kNvwGFtX3V&_nc_oc=AdkFnat2qDTO-UMQTxn6T_KhcNXiFFFY6QqNPUCzGfZKzORGPjn8DCUseyL2bLzmINk&_nc_zt=23&_nc_ht=scontent.flim2-6.fna&_nc_gid=_-9wAlAYvY7qj7AHYLApaA&oh=00_AfOJLhENNR0hfqIQ8SSIZSQnQ9-kjnA265Dqp9biQeTiSQ&oe=6869F8D7)` }}>
+              <div className="h-64 bg-cover bg-center" style={{ backgroundImage: `url(https://scontent.flim2-6.fna.fbcdn.net/v/t39.30808-6/475744137_1066360988627042_1141361137578987576_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeG6fIClM0OUtbmRBwEPUwknfvV5WeIeP_5-9XlZ4h4__lSkHKlRkcDdhLUNRE4Kc2I-3Q-hsyulJgh6iuMQa78u&_nc_ohc=h0hPXgPpuewQ7kNvwGBRf7J&_nc_oc=Adlj8qfj_sCy4cnVgYePn0oKrSBkopaS46f7vBQac_8hPgIC-rc7_o0UzQiPm0h2KII&_nc_zt=23&_nc_ht=scontent.flim2-6.fna&_nc_gid=HlZZYygH_2y0QXOqNHx-7Q&oh=00_AfRaIN2edXtenkGsnOb9ADn2ahQhEYwYPOYspzaOF5IXKA&oe=687727D7)` }}>
                 <div className="h-full bg-black bg-opacity-20 flex items-end">
                   <div className="p-4 text-white">
                     <h3 className="font-semibold">Área de Ceremonia</h3>
@@ -160,7 +160,7 @@ const Menu = () => {
               </div>
             </div>
             <div className="card overflow-hidden hover:scale-105 transition-transform">
-              <div className="h-64 bg-cover bg-center" style={{ backgroundImage: `url(https://scontent.flim2-5.fna.fbcdn.net/v/t39.30808-6/474917639_1061668822429592_4582377338096147413_n.jpg?stp=dst-jpg_tt6&cstp=mx768x1024&ctp=s768x1024&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=ZbjfVsg1gJcQ7kNvwEo3G7i&_nc_oc=AdmBZaCAm-6X2t7jVBWYhLRxrXht0rd9Z86RGal62L2l8prJFl9yXPFKsSpS-gqR0jU&_nc_zt=23&_nc_ht=scontent.flim2-5.fna&_nc_gid=wYlxyidhfK_6N09RaDPC3Q&oh=00_AfNx-mKJkC2Cr6GNDO9uJ0pjpeP2GNIPOpsSCGMx8FVD1Q&oe=686A2107)` }}>
+              <div className="h-64 bg-cover bg-center" style={{ backgroundImage: `url(https://scontent.flim2-1.fna.fbcdn.net/v/t39.30808-6/474744902_1059319315997876_3380338508019544832_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFCQ0PI0SimcSmXmosC9Nh0RQVGEnSLdllFBUYSdIt2WcGL2ykagTzLtTe-Mm1Hu_pyfoOEKDBdtZWq9vphw7hD&_nc_ohc=JRsO7gwsrV8Q7kNvwGWIAkb&_nc_oc=AdmDr7L1skgOcjBAlWBS1qlEabX2vi7Lrsr_TByNQBBqnFD8ZvMXqm0Rbr6ILclzPHU&_nc_zt=23&_nc_ht=scontent.flim2-1.fna&_nc_gid=MYgRh_MWQhQKpj6xAU-Crg&oh=00_AfR196nc9kvgKULhB8bDLyMifKIY_iUGcr5k5ktsJNteQg&oe=687729AB)` }}>
                 <div className="h-full bg-black bg-opacity-20 flex items-end">
                   <div className="p-4 text-white">
                     <h3 className="font-semibold">Pista de Baile</h3>
